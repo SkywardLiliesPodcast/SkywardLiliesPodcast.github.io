@@ -30,7 +30,7 @@ twitter_username: SkywardLiliesPodcast-Twitter
 github_username:  SkywardLiliesPodcast
 
 # Build settings
-remote_theme: kibibit-colorful
+theme: modern
 plugins:
   - jekyll-feed
 

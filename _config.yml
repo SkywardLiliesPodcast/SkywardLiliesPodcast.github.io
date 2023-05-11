@@ -30,7 +30,7 @@ twitter_username: SkywardLiliesPodcast-Twitter
 github_username:  SkywardLiliesPodcast
 
 # Build settings
-theme: minima
+theme: kibibit-colorful
 plugins:
   - jekyll-feed
 
